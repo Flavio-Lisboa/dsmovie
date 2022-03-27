@@ -8,7 +8,7 @@ function Navbar() {
             <nav className="container">
                 <div className="dsmovie-nav-content">
                 <h1>DSMovie</h1>
-                <a href="">
+                <a href="https://flavio-dsmovie.netlify.app">
                     <div className="dsmovie-contact-countainer">
                     <GithubIcon />
                     <p className="dsmovie-contact-link">/Flávio</p>
